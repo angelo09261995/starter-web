@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Angelo Noel Tolentino	angelo.n.tolentino@accenture.com	@IAmLeonGelo
 
 # THANKS
 
